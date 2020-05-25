@@ -1,2 +1,2 @@
 # www-redirects
-Vercel redirect to elsmr.dev
+Vercel redirect to https://elsmr.dev
